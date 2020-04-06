@@ -14,3 +14,7 @@ Les routines de la bibliothèque à utiliser sont :
 - Ecrire un programme en utilisant une boucle parallèle faisant la somme de deux
   tableaux de 1000 éléments.
       Varier la politique du schedule et le chunk correspondant.
+  
+  *Output* :
+  
+  ![image](https://user-images.githubusercontent.com/51762779/78551419-9a74d280-77fd-11ea-989c-aa5be21a3e6a.png)
