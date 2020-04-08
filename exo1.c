@@ -4,7 +4,7 @@
 
 int main (int args, char *argv[])
 {
-    #pragma omp parallel 
+    #pragma omp parallel num_threads(10)
     {
         int NCPU, tid, NPR, NTHR;
         /* get the total number of CPUs/core available for OpenMp */
